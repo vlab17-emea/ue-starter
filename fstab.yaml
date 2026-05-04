@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p198457-e2060852.adobeaemcloud.com/bin/franklin.delivery/ue-starter/main"
+    url: "https://author-p198457-e2060852.adobeaemcloud.com/bin/franklin.delivery/vlab17-emea/ue-starter/main"
     type: "markup"
     suffix: ".html"
